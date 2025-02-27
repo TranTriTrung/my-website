@@ -1,6 +1,6 @@
 function login()
   {
-   let u = ok.value;
+   let u = username.value;
    let p = pw.value;
    if ( u == "trung" && p == "1909")
    {
