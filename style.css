@@ -1,4 +1,10 @@
 .phandau {
   background-color:#40E0D0;
+  text-align: center;
+  padding: 20px 20px; 
+  }
+.gioithieu:hover{
+  background-color: cyan;
 }
+
   
