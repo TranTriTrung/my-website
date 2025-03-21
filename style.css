@@ -6,8 +6,9 @@
 .a
 {background-color: lightgray;}
 
-.gioithieu.a:{
+.gioithieu.a:hover{
   background-color: cyan;
+  display: block;
 }
 .noidung{}
 .gioithieu{
