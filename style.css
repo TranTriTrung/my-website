@@ -5,9 +5,13 @@
   }
 .a
 {background-color: lightgray;}
+
 .gioithieu.a:{
   background-color: cyan;
 }
 .noidung{}
-.
+.gioithieu{
+  background-color: black;
+}
+
   
