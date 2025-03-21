@@ -3,8 +3,11 @@
   text-align: center;
   padding: 30px; 
   }
-.a
-{background-color: lightgray;}
+.a{
+background-color: lightgray;
+color: white;
+ 
+}
 
 .gioithieu.a:hover{
   background-color: cyan;
