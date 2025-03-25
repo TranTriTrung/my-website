@@ -6,13 +6,11 @@
 a{
 background-color: ;
 color:#E8E8E8;
- 
-}
+ }
 
-a:hover {
-  background-color: yellow;
+.box:hover {
+  background-color: ;
   font-size: 18px;
-
 }
 .noidung{}
 .gioithieu{
