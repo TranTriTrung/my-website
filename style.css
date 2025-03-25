@@ -9,9 +9,10 @@ color: white;
  
 }
 
-.gioithieu.box.a:hover{
-  background-color: cyan;
-  display: block;
+a:hover {
+  background-color: yellow;
+  font-size: 18px;
+
 }
 .noidung{}
 .gioithieu{
