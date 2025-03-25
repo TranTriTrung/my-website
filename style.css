@@ -9,7 +9,7 @@ color: white;
  
 }
 
-.gioithieu.a:hover{
+.gioithieu.box.a:hover{
   background-color: cyan;
   display: block;
 }
